@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<books>
+    <book>
+        <id>1</id>
+        <title>ADBMS</title>
+        <price>500</price>
+    </book>
+    <book>
+        <id>2</id>
+        <title>Python Programming</title>
+        <price>450</price>
+    </book>
+<book><id>03</id><title>DSA</title><price>500</price></book></books>
